@@ -1,6 +1,7 @@
 # Headless WordPress with Gatsby
 
 A simple Gatsby blog front-end using the gatsby-source-wordpress plugin. The plugin uses the Wordpress REST API to source all the data. The result is a blazing fast front-end, while still keeping WordPress as the back-end. 
+**DEMO:** (https://wp.jrdn.se)
 
 ## Pros
 * Really snappy and fast website because of Gatsby
