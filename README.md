@@ -6,6 +6,9 @@ A simple Gatsby blog front-end using the gatsby-source-wordpress plugin. The plu
 ## Pros
 * Really snappy and fast website because of Gatsby
 * The code can be easily changed so it can generate more pages/taxonomies
+* Great SEO (can be boosted with Yoast)
+* ![Audit Score](https://pasteboard.co/IHsHwww.png)
+
 
 ## Cons
 * The gatsby-source-wordpress plugin does not yet support inline images that are a part of the post content.
